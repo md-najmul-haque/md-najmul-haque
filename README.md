@@ -40,8 +40,5 @@ I consider myself as a fully dedicated, dynamic, punctual, efficient, quick resp
 </a>
 </div>
 
-## My Portfolio
-[https://najmulhaque.netlify.app](https://najmulhaque.netlify.app)
-
 ## Email
 najmulhaque008@gmail.com
