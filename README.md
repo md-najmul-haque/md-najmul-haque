@@ -9,12 +9,16 @@ I love to take on challenges to do any type of project. I am a very quick learne
 I consider myself as a fully dedicated, dynamic, punctual, efficient, quick responder, and good team player. I am very passionate to build my career in this sector and utilize my knowledge and personal skills in Web Development.
 
 ## My Skill & Expertise
-💻React.js <br> 
+💻 React.js <br> 
 💻 JavaScript <br>
 💻 Node.js <br>
 💻 Express.js <br>
 💻 MongoDB <br>
 💻 HTML5 / CSS3 / Bootstrap / Tailwind <br>
+💻 Git <br>
+💻 Firebase <br>
+💻 Heroku <br>
+💻 Figma <br>
 💻 Photoshop / Illustrator <br>
 <br/>
 
