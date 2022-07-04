@@ -19,3 +19,24 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-najmul-haque&show_icons=true&locale=en&layout=compact" alt="md-najmul-haque" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-najmul-haque&show_icons=true&locale=en" alt="md-najmul-haque" /></p>
+
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C4D16AQFGGoYDJf3jfg/profile-displaybackgroundimage-shrink_200_800/0/1654707850736?e=1662595200&v=beta&t=oeKpMidxDEiIIKzI70QLl6CmCS7uVCmgJlQJSLJ0qVk)
+
+I'm Najmul, a programmer. I have developed various projects using React.js, Node.js, Express.js, MongoDB, etc. I love coding and my dream is to be a world-class programmer and want to build a dynamic career in this sector. I'm interested in MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack web development. 
+
+I love to take on challenges to do any type of project. I am a very quick learner, a dedicated hard worker, and also have the problem-solving ability and the confidence to make my challenge successful.
+
+I consider myself as a fully dedicated, dynamic, punctual, efficient, quick responder, and good team player. I am very passionate to build my career in this sector and utilize my knowledge and personal skills in Web Development.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-najmul-haque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-najmul-haque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/KupjolerJahaji)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-najmul-haque)  
+
+
