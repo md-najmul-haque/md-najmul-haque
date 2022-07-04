@@ -1,5 +1,5 @@
-<h1 align="Left">Hi, I'm Md Najmul Haque</h1>
-<h3 align="Left">A passionate MERN Stack Developer from Bangladesh</h3>
+## Hi, I'm Md Najmul Haque
+<p> MERN Stack Developer || Love to Write Code</p>
 
 ## About Me
 I'm Najmul, a programmer. I have developed various projects using React.js, Node.js, Express.js, MongoDB, etc. I love coding and my dream is to be a world-class programmer and want to build a dynamic career in this sector. I'm interested in MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack web development. 
@@ -9,13 +9,13 @@ I love to take on challenges to do any type of project. I am a very quick learne
 I consider myself as a fully dedicated, dynamic, punctual, efficient, quick responder, and good team player. I am very passionate to build my career in this sector and utilize my knowledge and personal skills in Web Development.
 
 ## My Skill & Expertise
-✅ React.js <br> 
-✅ JavaScript <br>
-✅ Node.js <br>
-✅ Express.js <br>
-✅ MongoDB <br>
-✅ HTML5 / CSS3 / Bootstrap / Tailwind <br>
-✅ Photoshop / Illustrator <br>
+💻React.js <br> 
+💻 JavaScript <br>
+💻 Node.js <br>
+💻 Express.js <br>
+💻 MongoDB <br>
+💻 HTML5 / CSS3 / Bootstrap / Tailwind <br>
+💻 Photoshop / Illustrator <br>
 <br/>
 
 ## Language I have used most 
